@@ -1,0 +1,1 @@
+3. User submits an integer (for example 123). Print the sum of all digits (6)

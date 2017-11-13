@@ -1,0 +1,1 @@
+11. User submits a number n and your program should check if it is an exact square (n = 4 -> yes)

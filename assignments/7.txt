@@ -1,0 +1,1 @@
+7. Turn an user-submitted integer n into it's binary representation (5 -> 101)

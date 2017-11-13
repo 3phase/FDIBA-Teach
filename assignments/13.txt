@@ -1,0 +1,1 @@
+13. Find the sum of all integers <= n and determine whether the sum is even or not (n - defined by user)

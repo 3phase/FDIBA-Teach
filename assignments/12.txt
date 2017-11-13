@@ -1,0 +1,1 @@
+12. The user submits n integers. Find the greatest one. (n is defined by user)

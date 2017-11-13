@@ -1,0 +1,1 @@
+8. Turn an user-submitted binary number into it's decimal representation (101 -> 5)

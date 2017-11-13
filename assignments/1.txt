@@ -1,0 +1,1 @@
+1. The user submits some integers and types -999 to stop the submission. Find the average of all digits before -999.

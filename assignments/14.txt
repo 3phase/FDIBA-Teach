@@ -1,0 +1,1 @@
+14. Check if there are repeating digits in an user-submitted integer n. (112 - yes)

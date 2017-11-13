@@ -1,0 +1,1 @@
+2. 1, 1, 2, 3, 5, 8, 13, 21, 34, ..., n-2, n-1, (n-1 + n-2) - this is an example of Fibonacci number sequence. User defines the number of digits n. Print first n digits from the Fibonacci sequence.

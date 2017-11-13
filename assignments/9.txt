@@ -1,0 +1,1 @@
+9. Check whether an user-submitted char 'c' is a capital letter or not ('A' -> it is; '0' -> it is not)
